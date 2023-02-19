@@ -24,7 +24,9 @@
   
 </div>
 
-![Code preview](gui.png)
+
+## 🚀 Thanks to JEMJEM for trying it out!! Check out the video below
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yEB9YAyfamE/0.jpg)](https://www.youtube.com/watch?v=yEB9YAyfamE)
 
 ## 🚀 Features
 
