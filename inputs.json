@@ -4,9 +4,9 @@
   "GAS LIMIT": "2108656",
   "SLIPPAGE": "10",
   "AUTO SLIPPAGE": "true",
-  "TP": "200",
-  "SL": "50",
-  "SL TRAIL": "25",
+  "TP": "500",
+  "SL": "0",
+  "SL TRAIL": "100",
   "LP": "ETH",
   "OPL": "True"
 }
