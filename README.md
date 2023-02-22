@@ -3,6 +3,7 @@
   <h1>ARBX</h1>
   <h2>THIS NEW VERSION IS FOR ARBITRUM ONLY</h2>
   <p>Snipe New Tokens on all ARBITRUM Dexes within 1 millisecond</p>
+  <p>ALL CREDITS GO TO DEFIMASTERD AND HIS BSC SNIPING BOT</p>
   <p align="center">
 
 </p>
@@ -20,13 +21,12 @@
  
  
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
-  [![sponsor](https://img.shields.io/opencollective/all/fakerjs?label=sponsors)](https://opencollective.com/fakerjs)
   
 </div>
 
 
 ## 🚀 Thanks to JEMJEM for trying it out Live! Click on the image below for a video:
-[![Arbitrum sniping GUI](gui.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
+[![Arbitrum sniping GUI](defixinfographics.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
 
 ## 🚀 Features
 
