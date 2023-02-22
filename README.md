@@ -26,7 +26,7 @@
 
 
 ## 🚀 Thanks to JEMJEM for trying it out Live! Click on the image below for a video:
-[![Arbitrum sniping GUI](defixinfographics.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
+[![Arbitrum sniping GUI](defixinfographic.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
 
 ## 🚀 Features
 
