@@ -25,7 +25,7 @@
 </div>
 
 
-## 🚀 Thanks to JEMJEM for trying it out!!Click on the image below:
+## 🚀 Thanks to JEMJEM for trying it out Live! Click on the image below for a video:
 [![Arbitrum sniping GUI](gui.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
 
 ## 🚀 Features
