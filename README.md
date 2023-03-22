@@ -2,7 +2,7 @@
   <img src="arbx.png" width="200"/>
   <h1>ARBX</h1>
   <h2>THIS NEW VERSION IS FOR ARBITRUM ONLY</h2>
-  <p>Snipe New Tokens on all ARBITRUM Dexes within 1 millisecond</p>
+  <p>Snipe New Tokens on ARB Sushiswap  within 1 millisecond (Camelot coming in a moment)</p>
   <p>ALL CREDITS GO TO DEFIMASTERD AND HIS BSC SNIPING BOT</p>
   <p align="center">
 
