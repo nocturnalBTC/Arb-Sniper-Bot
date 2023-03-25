@@ -3,6 +3,7 @@
   <h1>ARBX</h1>
   <h2>THIS NEW VERSION IS FOR ARBITRUM ONLY</h2>
   <p>Snipe New Tokens on ARB Camelot within 1 millisecond (Replace Camelot with Sushiswap in inputs.json if you want)</p>
+  <p>Congrats on getting the Arbitrum Airdrop, a lot of our contributors got it just by using this bot, I love to hear that!</p>
   <p>ALL CREDITS GO TO DEFIMASTERD AND HIS BSC SNIPING BOT</p>
   <p align="center">
 
